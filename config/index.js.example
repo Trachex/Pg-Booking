@@ -1,0 +1,11 @@
+module.exports = {
+    app: {
+        port: 3000
+    },
+    database: {
+        db: 'test',
+        user: 'test',
+        password: 'test',
+        host: 'localhost'
+    }
+}
